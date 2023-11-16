@@ -1,5 +1,5 @@
 <?php
-namespace gearformusic\SupplierFirebase;
+// namespace gearformusic\SupplierFirebase;
 
 class SupplierGearformusic{
 
