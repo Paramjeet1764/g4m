@@ -1,11 +1,11 @@
 <?php
 namespace Gearformusic\SupplierFirebase;
 
-class SupplierFirebase{
+class index{
 
-public function FirebaseUsers(){
+public static function user($gearformusic = "Testing"){
     
-    return"Testing";
+    return $gearformusic;
 }
 
 
