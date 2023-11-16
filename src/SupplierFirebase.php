@@ -1,7 +1,7 @@
 <?php
-// namespace gearformusic\SupplierFirebase;
+namespace Gearformusic\SupplierFirebase;
 
-class SupplierGearformusic{
+class SupplierFirebase{
 
 public function FirebaseUsers(){
     
