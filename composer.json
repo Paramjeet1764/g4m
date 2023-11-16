@@ -1,6 +1,7 @@
 {
     "name": "gearformusic/supplier-firebase",
     "description": "new package",
+    "minimum-stability":"dev",
     "type": "liabrary",
     "require": {
         "php": "^8.1"
